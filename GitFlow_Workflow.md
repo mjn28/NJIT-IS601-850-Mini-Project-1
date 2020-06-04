@@ -1,6 +1,6 @@
-##gitFlow Workflow
+## gitFlow Workflow
 
-The gitFlow workflow is a lightweight, branch-based workflow that was developed using core Git commands.  The gitFlow workflow is used worldwide and is made up of the following steps:
+The **gitFlow workflow** is a lightweight, branch-based workflow that was developed using core Git commands.  The gitFlow workflow is used worldwide and is made up of the following steps:
 
 1. Create a branch
 1. Add commits 
@@ -11,5 +11,5 @@ The gitFlow workflow is a lightweight, branch-based workflow that was developed 
 
 The gitFlow workflow offers a robust framework for managing large projects. It was created by Vincent Driessen.  It is well suited for collaboration among a large team of developers.  
 
-#[Back to Index](README.md)
+[Back to Index](README.md)
 
