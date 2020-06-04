@@ -1,4 +1,4 @@
-**About GitHub**
+# About GitHub
 
 GitHub is a tool that allows for automated workflows, continuous integration and testing, and provides end-to-end security as you code.  Because of this, project delivery can be accelerated, vulnerabilities and integration challenges can be addressed early, and teams can collaborate easily.  
 
