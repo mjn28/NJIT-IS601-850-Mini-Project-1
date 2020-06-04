@@ -4,5 +4,5 @@ GitHub is a tool that allows for automated workflows, continuous integration and
 
 **Some Stats!**
 
-By using GitHub, organizations can expect a 40% reduction in developer onboarding time, a 639% return on investment over 3 years, and an average of 45 minutes saved, per developer, per day.  All of these factors contribute to increased productivity and competitiveness of a company.
+According to [GitHub](https://github.com/enterprise), organizations can expect a 40% reduction in developer onboarding time, a 639% return on investment over 3 years, and an average of 45 minutes saved, per developer, per day.  All of these factors contribute to increased productivity and competitiveness of a company.
 
