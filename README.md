@@ -3,7 +3,7 @@
 ## Monica Nelson and Kelly Blackledge
 
 ### Index:
-* About Git 
+* [About Git](About_Git.md) 
 * The gitFlow Workflow 
 * Git Commands and Terminology 
 * Sources 
