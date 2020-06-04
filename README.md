@@ -4,9 +4,11 @@
 
 ### Index:
 * [About Git](About_Git.md) 
-* [gitFlow Workflow](GitFlow Workflow.md) 
-* [Git Commands and Terminology](Git Commands and Terminology.md) 
+* [gitFlow Workflow](GitFlowWorkflow.md) 
+* [Git Commands and Terminology](GitCommandsandTerminology.md) 
 * [Sources](Sources.md) 
+
+
 
 ### Changelog:
 
