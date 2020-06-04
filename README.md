@@ -2,10 +2,12 @@
 
 ## Monica Nelson and Kelly Blackledge
 
-# Index:
+### Index:
 * About Git 
 * The gitFlow Workflow 
 * Git Commands and Terminology 
 * Sources 
+
+### Changelog:
 
 
