@@ -16,3 +16,5 @@ Here are some commands and terms you should be familiar with when starting to le
 * Remote Show
 * Status
 * Master Branch
+
+[Back to Index](README.md)
