@@ -1,4 +1,4 @@
-## gitFlow Workflow
+# gitFlow Workflow
 
 The **gitFlow workflow** is a lightweight, branch-based workflow that was developed using core Git commands.  The gitFlow workflow is used worldwide and is made up of the following steps:
 
