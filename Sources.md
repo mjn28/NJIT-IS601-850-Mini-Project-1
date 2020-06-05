@@ -1,4 +1,7 @@
 # Sources
+*Still think you need some additional help?  Check out the links below!* 
+
+<img src=https://octodex.github.com/images/femalecodertocat.png width="150" height="150"> 
 
 ### Markdown
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
