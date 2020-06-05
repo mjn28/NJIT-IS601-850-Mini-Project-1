@@ -20,17 +20,16 @@ Here are some commands and terms you should be familiar with when starting to le
 * _Remote Add_ - adds a new remote
   * *git remote add [name of new remote][url]*
   * [Documentation](https://help.github.com/en/github/using-git/adding-a-remote)
-* _Remote Remove_ 
-  * *git checkout [branch]*
-  * [Documentation](https://git-scm.com/docs/git-checkout)
-* _Remote Show_
-  * *git checkout [branch]*
-  * [Documentation](https://git-scm.com/docs/git-checkout)
-* _Status_
-  * *git checkout [branch]*
-  * [Documentation](https://git-scm.com/docs/git-checkout)
-* _Master Branch_
-  * *git checkout [branch]*
-  * [Documentation](https://git-scm.com/docs/git-checkout)
+* _Remote Remove_ - removes a remote. All remote-tracking branches and configuration settings for the remote are updated
+  * *git remote remove [name of remote]*
+  * [git remote remove Documentation](https://git-scm.com/docs/git-remote)
+* _Remote Show_ - gives some information about the remote
+  * *git remote show [name of remote]*
+  * [git remote show Documentation](https://git-scm.com/docs/git-remote)
+* _Status_ - shows the status of changes in the working tree as untracked, modified, or staged
+  * *git status*
+  * [git status Documentation](https://git-scm.com/docs/git-status)
+* _Master Branch_ -  the main branch or ‘trunk’ of a repository
+
 
 [Back to Index](README.md)
