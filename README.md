@@ -12,9 +12,9 @@
 ### Changelog:
 
 **June 5th**  
-Kelly - Task - Update README.md
-Kelly - Feature - Added changelog totals 
-Kelly - Feature - Add video to About_GitHub
+Kelly - Task - Update README.md  
+Kelly - Feature - Added changelog totals  
+Kelly - Feature - Add video to About_GitHub  
 Monica - Feature - Add Changelog   
 Kelly - Feature - Added Image and text  
 Kelly - Feature - Added links to additional help  
