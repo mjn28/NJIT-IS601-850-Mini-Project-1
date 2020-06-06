@@ -21,4 +21,7 @@
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Interactive Tutorials](https://learngitbranching.js.org/?locale=en_US)
 
+### A Crash Course in GitHub
+ * A crash course  GitHub with no ads can be found [here](https://www.youtube.com/watch?v=RGOj5yH7evk).
+
 [Back to Index](README.md)
