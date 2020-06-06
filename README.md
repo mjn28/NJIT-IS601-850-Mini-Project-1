@@ -12,6 +12,7 @@
 ### Changelog:
 
 **June 5th**  
+Kelly Fix - Fixed changelog totals
 Kelly - Task - Update changelog list and totals  
 Kelly - Fix - Fixed format of changelog list  
 Kelly - Feature - Added crash course section to Sources  
