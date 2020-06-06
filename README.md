@@ -12,6 +12,7 @@
 ### Changelog:
 
 **June 5th**  
+Kelly - Task - Update README.md
 Kelly - Feature - Added changelog totals 
 Kelly - Feature - Add video to About_GitHub
 Monica - Feature - Add Changelog   
@@ -58,11 +59,11 @@ Monica - Task: Create About Git File
 
 ### Changelog Totals
 **Monica** 
- * Tasks = 
- * Features = 
- * Fixes = 
+ * Tasks = 11
+ * Features = 10
+ * Fixes = 4
 
 **Kelly**
- * Tasks = 
- * Features = 
- * Fixes = 
+ * Tasks = 4
+ * Features = 9
+ * Fixes = 2
