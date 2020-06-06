@@ -54,4 +54,13 @@ Kelly - Task - Created Git Commands and Terminology
 Kelly - Task: Create GitFlow Workflow.md  
 Monica - Task: Create About Git File  
 
+### Changelog Totals
+**Monica** 
+ * Tasks = 
+ * Features = 
+ * Fixes = 
 
+**Kelly**
+ * Tasks = 
+ * Features = 
+ * Fixes = 
