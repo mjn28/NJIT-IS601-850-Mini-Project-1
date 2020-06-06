@@ -12,6 +12,10 @@
 ### Changelog:
 
 **June 5th**  
+Kelly - Task - Update changelog list and totals
+Kelly - Fix - Fixed format of changelog list
+Kelly - Feature - Added crash course section to Sources
+Kelly - Task - Update changelog totals
 Kelly - Task - Update README.md  
 Kelly - Feature - Added changelog totals  
 Kelly - Feature - Add video to About_GitHub  
@@ -64,6 +68,6 @@ Monica - Task: Create About Git File
  * Fixes = 4
 
 **Kelly**
- * Tasks = 4
- * Features = 9
- * Fixes = 2
+ * Tasks = 6
+ * Features = 10
+ * Fixes = 3
