@@ -12,6 +12,7 @@
 ### Changelog:
 
 **June 5th**  
+Kelly - Fix - Updated changelog totals  
 Kelly - Fix - Fixed changelog list  
 Kelly - Fix - Fixed changelog totals  
 Kelly - Task - Update changelog list and totals  
@@ -72,4 +73,4 @@ Monica - Task: Create About Git File
 **Kelly**
  * Tasks = 6
  * Features = 10
- * Fixes = 4
+ * Fixes = 6
